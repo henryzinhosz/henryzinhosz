@@ -31,7 +31,7 @@
 
 <h3 align="left">Redes sociais</h3>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Henry'-10b9b9?style=flat-square&labelColor=10b9b9&logo=twitter&logoColor=white&link=https://twitter.com/henryzinhosz)](https://twitter.com/henryzinhosz) [![Youtube Badge](https://img.shields.io/badge/-Aslam'-fc0303?style=flat-square&labelColor=fc0303&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCf1HcifkW2T8CrrwU7LOceA)](https://www.youtube.com/channel/UCBiE7Aw_AeiK8kfKionPflg) 
+[![Twitter Badge](https://img.shields.io/badge/-@Henry'-10b9b9?style=flat-square&labelColor=10b9b9&logo=twitter&logoColor=white&link=https://twitter.com/henryzinhosz)](https://twitter.com/henryzinhosz) 
 
 <h3 align="left">Linguagens</h3>
 
