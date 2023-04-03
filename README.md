@@ -5,7 +5,7 @@
 <p align="center">I'm a developer of bots and web sites, I'm learning C, C ++ and Lua </p>
 
  <details>
-  <summary> 🚧 bio </summary>
+  <summary> 🚧 Biografia </summary>
   
       - 🌙 Apaixonado Por Livros e Café!
       - 📚 Estudante de Redes e Pentest
@@ -29,11 +29,11 @@
 
 </details>
 
-<h3 align="left">🎸 redes sociais</h3>
+<h3 align="left">Redes sociais</h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-@Henry'-10b9b9?style=flat-square&labelColor=10b9b9&logo=twitter&logoColor=white&link=https://twitter.com/henryzinhosz)](https://twitter.com/henryzinhosz) [![Youtube Badge](https://img.shields.io/badge/-Aslam'-fc0303?style=flat-square&labelColor=fc0303&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCf1HcifkW2T8CrrwU7LOceA)](https://www.youtube.com/channel/UCBiE7Aw_AeiK8kfKionPflg) 
 
-<h3 align="left">📚 Linguagens</h3>
+<h3 align="left">Linguagens</h3>
 
 <p align="center">
 
@@ -46,7 +46,7 @@
 
 </p>
 
-<h3 align="left">🧭 Ferramentas</h3>
+<h3 align="left">Ferramentas</h3>
 
 <p align="cente">
 
