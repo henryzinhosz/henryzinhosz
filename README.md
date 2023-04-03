@@ -60,8 +60,8 @@
 
 ![profile] ![languages]
 
-<p> [profile]: https://github-readme-stats.vercel.app/api?username=henryzinhosz&show_icons=true&theme=midnight-purple </p>
- <p> [languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=henryzinhosz&theme=midnight-purple </p>
+[profile]: https://github-readme-stats.vercel.app/api?username=henryzinhosz&show_icons=true&theme=midnight-purple 
+  [languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=henryzinhosz&theme=midnight-purple 
 
 <h2 align="center">Discord</h2>
 
