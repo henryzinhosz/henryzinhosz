@@ -65,5 +65,5 @@
 
 <h2 align="center">Discord</h2>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/852683388711469124)](https://discord.com/users/852683388711469124)
+[![Discord Presence](https://lanyard.cnrad.dev/api/712617067333025793?idleMessage=The brightest star in all constellations)](https://discord.com/users/712617067333025793)
 
