@@ -7,10 +7,10 @@
  <details>
   <summary> 🚧 Biografia </summary>
   
-      - 🌙 Apaixonado Por Livros e Café!
-      - 📚 Estudante de Redes e Pentest
-      - 💻 Cursando Segurança Da Informação, Programador Front End
-      - 💫 Of all the stars I stand out for being the most intelligent!
+      ⇝ Apaixonado Por Livros e Café!
+      ⇝ Estudante de Redes e Pentest
+      ⇝ Cursando Segurança Da Informação, Programador Front End
+      ⇝ Of all the stars I stand out for being the most intelligent!
       
 
      
