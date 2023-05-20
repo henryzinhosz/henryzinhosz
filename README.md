@@ -58,10 +58,13 @@
 
 <h2 align="center">Outras Informações</h2>
 
-![profile] ![languages]
+<p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=henryzinhosz&show_icons=true&theme=midnight-purple" />
+ </p>
 
-[profile]: https://github-readme-stats.vercel.app/api?username=henryzinhosz&show_icons=true&theme=midnight-purple 
-  [languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=henryzinhosz&theme=midnight-purple 
+<p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryzinhosz&theme=midnight-purple" />
+ </p>
 
 <h2 align="center">Discord</h2>
 
