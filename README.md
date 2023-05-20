@@ -4,8 +4,8 @@
 
 <p align="center">I'm a developer of bots and web sites, I'm learning C, C ++ and Lua </p>
 
- <details>
-  <summary> 🚧 Biografia </summary>
+ 
+  <h3> 🚧 Biografia 
   
       ⇝ Apaixonado Por Livros e Café!
       ⇝ Estudante de Redes e Pentest
@@ -16,7 +16,7 @@
      
      
  
-</details>
+</h3>
 
 <details>
   <summary> 🖥️ Projetos </summary>
