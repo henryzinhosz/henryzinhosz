@@ -19,12 +19,12 @@
 </h3>
 
 
-  <h2> 🖥️ Projetos </h2>
+  <h3> 🖥️ Projetos 
 
-<h2>Sona Music</h2>
-<h3>Sona é um dos meus projetos, Sona Music é um bot de musica completo com efeitos para musica, lista de musicas preferidas e muito mais, Sona junta praticidade com qualidade em um bot só.<h3>
+Sona Music:
+Sona é um dos meus projetos, Sona Music é um bot de musica completo com efeitos para musica, lista de musicas preferidas e muito mais, Sona junta praticidade com qualidade em um bot só.
 
-
+</h3>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </details>
