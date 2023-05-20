@@ -11,14 +11,6 @@
       ⇝ Estudante de Redes e Pentest
       ⇝ Cursando Segurança Da Informação, Programador Front End
       ⇝ Of all the stars I stand out for being the most intelligent!
-      
-
-
-🖥️ Projetos 
-
-Sona Music:
-Sona é um dos meus projetos, Sona Music é um bot de musica completo com efeitos para musica, lista de musicas preferidas e muito mais, Sona junta praticidade com qualidade em um bot só.
-
 </h3>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
