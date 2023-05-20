@@ -13,13 +13,8 @@
       ⇝ Of all the stars I stand out for being the most intelligent!
       
 
-     
-     
- 
-</h3>
 
-
-  <h3> 🖥️ Projetos 
+🖥️ Projetos 
 
 Sona Music:
 Sona é um dos meus projetos, Sona Music é um bot de musica completo com efeitos para musica, lista de musicas preferidas e muito mais, Sona junta praticidade com qualidade em um bot só.
