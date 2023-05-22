@@ -46,11 +46,11 @@
 <h2 align="center">Outras Informações</h2>
 
 <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=henryzinhosz&show_icons=true&theme=midnight-purple" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryzinhosz&theme=midnight-purple" />
  </p>
 
 <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryzinhosz&theme=midnight-purple" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=henryzinhosz&show_icons=true&theme=midnight-purple" />
  </p>
 
 <h2 align="center">Discord</h2>
