@@ -18,7 +18,7 @@
 
 <h3 align="left">Redes sociais</h3>
 
-<div align="center">
+<div align="left">
   <a href="https://x.com/ancapaslam" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-black?&style=for-the-badge&logo=x&logoColor=white" target="_blank">
   </a>
