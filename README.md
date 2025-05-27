@@ -18,7 +18,16 @@
 
 <h3 align="left">Redes sociais</h3>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Henry'-10b9b9?style=flat-square&labelColor=10b9b9&logo=twitter&logoColor=white&link=https://twitter.com/henryzinhosz)](https://twitter.com/henryzinhosz) 
+<div align="center">
+  <a href="https://x.com/ancapaslam" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?&style=for-the-badge&logo=x&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.youtube.com/@aslamxd" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+ 
+  
+</div> 
 
 <h3 align="left">Linguagens</h3>
 
